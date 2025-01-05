@@ -13,7 +13,7 @@ In this project, we aimed to predict life expectancy across countries from popul
 The primary objectives of this project were:
 - **Exploratory data analysis (EDA)**: To discover the relationships between life expectancy and other socioeconomic and health-related factors.
 - **Model development**: To build two linear regression models for estimating life expectancy based on selected features.
-  - **Minimalistic model**: Using a minimal set of non-sensitive features.
+  - **Minimalist model**: Using a minimal set of non-sensitive features.
   - **Precise model**: Using a more elaborate set of features, including sensitive features, for better model performance.
 - **Interactive function**: To build an interactive function containing both models, allowing users to input relevant data and predict life expectancy.
 
@@ -32,7 +32,7 @@ These are the main files, containing the analyses and final interactive function
 - Exploration and visualisation of the relationships between life expectancy and features.
 
 ### 2) Feature Engineering - `fe_analytica.ipynb`
-- Feature selection for the 'precise' and 'minimalistic' models.
+- Feature selection for the 'precise' and 'minimalist' models.
 - Scaling of features using MinMaxScaler, RobustScaler, and StandardScaler.
 - Logarithmic transformations for features like GDP and HIV incidence.
 
@@ -55,7 +55,7 @@ Here are the features of this app:
 2. **Precise model**:
    - Enter the requested features: Under five deaths, Adult mortality, BMI, Schooling, Incidents of HIV, GDP per capita and Region (e.g., Asia, Europe).
    - Predicts the life expectancy.
-4. **Minimalistic model**:
+4. **Minimalist model**:
    - Enter the requested features: Under five deaths, Adult mortality and BMI.
    - Predicts the life expectancy.
 
