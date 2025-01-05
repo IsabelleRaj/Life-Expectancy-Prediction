@@ -62,7 +62,7 @@ Here is a demonstration:
 
 <div style="display: flex; gap: 10px;">
   <img src="Resources/demo_precise_model.png" alt="Image 1" style="width: 50%; border: none;"/>
-  <img src="Resources/demo_minimal_model.png.png" alt="Image 2" style="width: 50%; border: none;"/>
+  <img src="Resources/demo_minimal_model.png" alt="Image 2" style="width: 50%; border: none;"/>
 </div>
 
 ## Authors
