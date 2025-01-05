@@ -39,13 +39,13 @@ These are the main files, containing the analyses and final interactive function
 ### 3) Model Development - `modelling_testing_analytica.ipynb`
 - Linear regression model development and performance testing.
 
-### 4) Interactive Function - `app_analytica.ipynb`
+### 4) Interactive Function/App - `app_analytica.ipynb`
 - Text-based user input interface.
 - Appropriate validation steps for user inputs.
 
 ## Usage
 
-To run the function, open the notebook:
+To run the app (function), open the notebook:
 ```bash
 jupyter notebook "app_analytica.ipynb"
 ```
@@ -65,6 +65,7 @@ Here is a demonstration:
   <img src="Resources/demo_precise_model.png" alt="Image 1" style="width: 45%; border: none;"/>
   <img src="Resources/demo_minimal_model.png" alt="Image 2" style="width: 45%; border: none;"/>
 </div>
+
 
 ## Authors
 This was written by [@IsabelleRaj](https://github.com/IsabelleRaj), [@Ale42RA](https://github.com/Ale42RA) and [@BRTechArt-Ben](https://github.com/BRTechArt-Ben) (Team Analytica) as part of the Digital Futures Academy.
