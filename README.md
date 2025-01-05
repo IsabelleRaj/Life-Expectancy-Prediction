@@ -25,20 +25,21 @@ The primary objectives of this project were:
    git clone https://github.com/IsabelleRaj/Life-Expectancy-Prediction
    ```
 ## Description of Files
+These are the main files, containing the analyses and final interactive function.
 
-### Exploratory Data Analysis (EDA) - `eda_analytica.ipynb`
+### 1) Exploratory Data Analysis (EDA) - `eda_analytica.ipynb`
 - Train-test split of the dataset.
 - Exploration and visualisation of the relationships between life expectancy and features.
 
-### Feature Engineering - `fe_analytica.ipynb`
+### 2) Feature Engineering - `fe_analytica.ipynb`
 - Feature selection for the 'precise' and 'minimalistic' models.
 - Scaling of features using MinMaxScaler, RobustScaler, and StandardScaler.
 - Logarithmic transformations for features like GDP and HIV incidence.
 
-### Model Development - `modelling_testing_analytica.ipynb`
+### 3) Model Development - `modelling_testing_analytica.ipynb`
 - Linear regression model development and performance testing.
 
-### Interactive Function - `app_analytica.ipynb`
+### 4) Interactive Function - `app_analytica.ipynb`
 - Text-based user input interface.
 - Appropriate validation steps for user inputs.
 
@@ -61,8 +62,8 @@ Here are the features of this app:
 Here is a demonstration:
 
 <div style="display: flex; gap: 10px;">
-  <img src="Resources/demo_precise_model.png" alt="Image 1" style="width: 50%; border: none;"/>
-  <img src="Resources/demo_minimal_model.png" alt="Image 2" style="width: 50%; border: none;"/>
+  <img src="Resources/demo_precise_model.png" alt="Image 1" style="width: 45%; border: none;"/>
+  <img src="Resources/demo_minimal_model.png" alt="Image 2" style="width: 45%; border: none;"/>
 </div>
 
 ## Authors
