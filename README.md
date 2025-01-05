@@ -59,7 +59,7 @@ Here are the features of this app:
    - Enter the requested features: Under five deaths, Adult mortality and BMI.
    - Predicts the life expectancy.
 
-Here is a demonstration:
+Here are demonstration images:
 
 <div style="display: flex; gap: 10px;">
   <img src="Resources/demo_precise_model.png" alt="Image 1" style="width: 45%; border: none;"/>
@@ -68,4 +68,4 @@ Here is a demonstration:
 
 
 ## Authors
-This was written by [@IsabelleRaj](https://github.com/IsabelleRaj), [@Ale42RA](https://github.com/Ale42RA) and [@BRTechArt-Ben](https://github.com/BRTechArt-Ben) (Team Analytica) as part of the Digital Futures Academy.
+This project was conducted by [@IsabelleRaj](https://github.com/IsabelleRaj), [@Ale42RA](https://github.com/Ale42RA) and [@BRTechArt-Ben](https://github.com/BRTechArt-Ben) (Team Analytica) as part of the Digital Futures Academy.
